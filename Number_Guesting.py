@@ -1,5 +1,9 @@
 import random
 
+
+def clear_screen():
+    print('\n' * 100)
+
 def game():
     while True:
         try:
@@ -29,7 +33,7 @@ def game():
                 count = 5
                 break
             else:
-                print('wrong input. i set it on easy (10)')
+                print('wrong input. i set it on easy')
                 count = 10
                 break
         except ValueError:
@@ -64,6 +68,7 @@ print('Welcome to number guesing game')
 while True:
     play = input('do you wanna play [y/n]: ')
     if play.lower() == 'y':
+        clear_screen()
         game()
     elif play.lower() == 'n':
         break
