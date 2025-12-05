@@ -11,4 +11,6 @@
 
 - [Number Guesting](https://github.com/ali-a8s/python_mini_projects/blob/main/Number_Guesting.py): an interactive number guessing game where players try to find a random number within a custom range. Features adjustable difficulty levels (easy/hard), smart range validation, and real-time feedback with remaining chances displayed after each guess.
 
+- [Reverse a String](https://github.com/ali-a8s/python_mini_projects/blob/main/Reverse_String.py): Enter a string and the program will reverse it and print it out.
 
+- [Count Vowels](https://github.com/ali-a8s/python_mini_projects/blob/main/Count_Vowels.py): Enter a string and the program counts the number of vowels in the text.
