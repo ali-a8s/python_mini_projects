@@ -2,7 +2,7 @@ import random
 
 
 def clear_screen():
-    print('\n' * 100)
+    print('\n' * 50)
 
 def game():
     while True:

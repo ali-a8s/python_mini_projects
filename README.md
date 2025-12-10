@@ -9,3 +9,6 @@
 1. [Reverse a String](https://github.com/ali-a8s/python_mini_projects/blob/main/Reverse_String.py)
 1. [Count Vowels](https://github.com/ali-a8s/python_mini_projects/blob/main/Count_Vowels.py)
 1. [Dice Roling](https://github.com/ali-a8s/python_mini_projects/blob/main/Dice_Rolling.py)
+1. [Currency Converter](https://github.com/ali-a8s/python_mini_projects/blob/main/Currency_Converter.py)
+1. [QR Code Generator](https://github.com/ali-a8s/python_mini_projects/blob/main/QR_Code_Generator.py)
+
