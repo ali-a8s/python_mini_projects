@@ -2,7 +2,8 @@
 
 
 1. [Rock_Paper_Scissors](https://github.com/ali-a8s/python_mini_projects/blob/main/Rock_Paper_Scissors.py)
-1. [Password](https://github.com/ali-a8s/python_mini_projects/blob/main/Password.py)
+1. [Password Generator](https://github.com/ali-a8s/python_mini_projects/blob/main/Password_Generator.py)
+1. [Password Strength Checker](https://github.com/ali-a8s/python_mini_projects/blob/main/Password_Strength_Checker.py)
 1. [BMI_calculator](https://github.com/ali-a8s/python_mini_projects/blob/main/BMI_calculator.py)
 1. [Calculator](https://github.com/ali-a8s/python_mini_projects/blob/main/Calculator.py)
 1. [Number Guesting](https://github.com/ali-a8s/python_mini_projects/blob/main/Number_Guesting.py)
