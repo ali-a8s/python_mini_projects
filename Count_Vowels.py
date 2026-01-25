@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-def program():
+def count_vowels():
     txt = input('enter your text: ')
     vowels = ['a', 'e', 'i', 'o', 'u']
     count_vowels = defaultdict(int)  
@@ -15,13 +15,18 @@ def program():
     print(dict(count_vowels)) 
 
 
-print("COUNT VOWELS")
+print("\nCOUNT VOWELS\n")
 
-while True:
-    choice = input('run program? [y/n] ')
-    if choice.lower() == 'y':
-        program()
-    elif choice.lower() == 'n':
-        break
-    else:
-        print('wrong input')
+def main():
+    while True:
+        choice = input('run program? [y/n] ')
+        if choice.lower() == 'y':
+            count_vowels()
+        elif choice.lower() == 'n':
+            break
+        else:
+            print('wrong input')
+
+
+if __name__ == '__main__':
+    main()

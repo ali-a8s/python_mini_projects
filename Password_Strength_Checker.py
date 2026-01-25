@@ -2,7 +2,6 @@ import re
 
 def check_password_strength(password):
     password = password.strip()
-    
     strength = 0
     
     if len(password) >= 8:
