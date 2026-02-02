@@ -13,6 +13,7 @@
 1. [Todo List](https://github.com/ali-a8s/python_mini_projects/blob/main/ToDo_List.py)
 1. [Simple Text Editor](https://github.com/ali-a8s/python_mini_projects/blob/main/Simple_Text_Editor.py)
 1. [Pig Dic Game](https://github.com/ali-a8s/python_mini_projects/blob/main/Pig_Dic_Game.py)
+1. [Slot Machine](https://github.com/ali-a8s/python_mini_projects/blob/main/Slot_Machine.py)
 
 
 
